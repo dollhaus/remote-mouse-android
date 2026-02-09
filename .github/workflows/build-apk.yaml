@@ -1,6 +1,6 @@
 name: apk builder
 
-on: [push]
+on: workflow_dispatch
 
 jobs:
   build:
